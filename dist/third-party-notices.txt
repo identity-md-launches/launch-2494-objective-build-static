@@ -1,0 +1,18 @@
+Belroll bundles the following runtime dependencies locally:
+
+React and React DOM 19.2.0
+Copyright (c) Meta Platforms, Inc. and affiliates.
+MIT license: ./licenses/react-LICENSE.txt
+https://github.com/facebook/react
+
+@bdxi/web3js 1.0.1
+MIT license: ./licenses/beldex-sdk-MIT.txt
+https://github.com/Beldex-Coin/bdx-web3js
+
+Manrope variable font, packaged by @fontsource-variable/manrope 5.3.0
+Copyright 2019 The Manrope Project Authors
+SIL Open Font License 1.1: ./licenses/manrope-LICENSE.txt
+https://github.com/sharanda/manrope
+
+The Belroll mark, interface icons and share graphic are authored SVGs in this
+repository. No external asset requests or hosted fonts are required.

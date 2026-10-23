@@ -1,0 +1,6 @@
+# Path budget: dependency trees at any depth, Vite caches, TS build caches,
+# and disposable local interaction evidence only. dist/ remains deliverable.
+node_modules/
+.vite/
+*.tsbuildinfo
+/test/scratch/
